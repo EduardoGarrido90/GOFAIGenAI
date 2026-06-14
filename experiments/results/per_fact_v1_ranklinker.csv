@@ -1,0 +1,511 @@
+model,topic,predicate,arg1,arg2,status_naive,status_improved,detail
+Claude Sonnet 3.7,lovecraft,influenced_by,hp_lovecraft,arthur_machen,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,aquinas,influenced_by,catholic_philosophy,thomas_aquinas,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,plato,located_in,academy_of_athens_modern,athens,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,dante,influenced_by,dante_alighieri,virgil,verified,verified,P737 match
+Claude Sonnet 3.7,kierkegaard,influenced_by,martin_heidegger,edmund_husserl,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,published_in,orlando,interwar_period,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,plato,influenced_by,thomas_aquinas,aristotle,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,dante,born_in,dante_alighieri,florence,not_in_wikidata,not_in_wikidata,place granularity/mismatch
+Claude Sonnet 3.7,dante,influenced_by,renaissance_literature,the_divine_comedy,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,lovecraft,created_by,penrose_triangle,lionel_and_roger_penrose,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,shelley,influenced_by,frankenstein_novel,prometheus_mythology,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,lovecraft,influenced_by,hp_lovecraft,gothic_horror,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,civil_war,born_in,jefferson_davis,x1808,verified,contradicted,"claimed 1808, wikidata [1828]"
+Claude Sonnet 3.7,civil_war,died_in,robert_e_lee,x1870,verified,not_in_wikidata,no date
+Claude Sonnet 3.7,lovecraft,influenced_by,hp_lovecraft,edgar_allan_poe,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,plato,influenced_by,plato,socrates,verified,verified,P737 match
+Claude Sonnet 3.7,homer,influenced_by,aeneid,odyssey,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kierkegaard,influenced_by,søren_kierkegaard,socrates,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,plato,influenced_by,courtly_love,platonic_love,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kafka,born_in,franz_kafka,prague,verified,verified,place match
+Claude Sonnet 3.7,tolstoy,influenced_by,leo_tolstoy,napoleonic_wars,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,aquinas,influenced_by,thomas_aquinas,maimonides,verified,not_in_wikidata,relation absent
+Claude Sonnet 3.7,dickinson,published_in,leaves_of_grass,x1855,verified,verified,1855 ~ [1855]
+Claude Sonnet 3.7,shelley,influenced_by,frankenstein_novel,galvanism,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,plato,influenced_by,the_theory_of_forms,parmenides,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,aquinas,influenced_by,thomas_aquinas,averroes,verified,verified,P737 match
+Claude Sonnet 3.7,kant,influenced_by,john_rawls,immanuel_kant,verified,verified,P737 match
+Claude Sonnet 3.7,lovecraft,created_by,arkham,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,tolstoy,written_by,war_and_peace_novel,leo_tolstoy,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,homer,written_by,odyssey,homer,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,aquinas,influenced_by,jacques_maritain,thomas_aquinas,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,tolstoy,published_in,war_and_peace_novel,x19th_century_literature,link_fail,link_fail,work not linked
+Claude Sonnet 3.7,sartre,influenced_by,jeanpaul_sartre,martin_heidegger,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,homer,written_by,aeneid,virgil,verified,verified,P50 match
+Claude Sonnet 3.7,homer,written_by,works_and_days,hesiod,verified,verified,P50 match
+Claude Sonnet 3.7,lovecraft,published_in,call_of_cthulhu,weird_tales_magazine,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,civil_war,born_in,frederick_douglass,x1818,verified,verified,"1818 ~ [1817, 1818, 1818]"
+Claude Sonnet 3.7,dickinson,influenced_by,harlem_renaissance,walt_whitman,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,lovecraft,influenced_by,hp_lovecraft,eugenics_movement,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,hume,influenced_by,david_hume,john_locke,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,published_in,three_guineas,interwar_period,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,woolf,published_in,to_the_lighthouse,interwar_period,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,hume,influenced_by,logical_positivism,david_hume,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,dickinson,published_in,poems_1890,victorian_era,link_fail,link_fail,work not linked
+Claude Sonnet 3.7,nietzsche,influenced_by,jacques_derrida,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,plato,influenced_by,plato,pythagoras,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,lovecraft,written_by,the_dunwich_horror,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,civil_war,located_in,battle_of_bull_run,virginia,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,dante,written_by,the_divine_comedy,dante_alighieri,verified,verified,P50 match
+Claude Sonnet 3.7,lovecraft,written_by,the_call_of_cthulhu,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,kafka,influenced_by,jeanpaul_sartre,martin_heidegger,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,kafka,died_in,franz_kafka,kierling,verified,verified,place match
+Claude Sonnet 3.7,homer,written_by,theogony,hesiod,verified,verified,P50 match
+Claude Sonnet 3.7,lovecraft,written_by,the_dunwich_horror,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,lovecraft,created_by,dagon,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,civil_war,located_in,battle_of_gettysburg,pennsylvania,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,aristotle,influenced_by,aristotle,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kierkegaard,influenced_by,søren_kierkegaard,jg_fichte,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,homer,written_by,ulysses,james_joyce,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,shelley,published_in,frankenstein,x1818,not_in_wikidata,contradicted,"claimed 1818, wikidata [1987]"
+Claude Sonnet 3.7,kierkegaard,influenced_by,jeanpaul_sartre,edmund_husserl,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,shelley,written_by,falkner,mary_shelley,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,homer,influenced_by,aeneid,iliad,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,lovecraft,published_in,the_dunwich_horror,x1929,verified,verified,1929 ~ [1929]
+Claude Sonnet 3.7,lovecraft,published_in,hp_lovecraft,weird_tales,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,dante,influenced_by,ts_eliot,the_divine_comedy,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,shelley,created_by,the_creature,victor_frankenstein,verified,not_in_wikidata,no claim
+Claude Sonnet 3.7,lovecraft,created_by,necronomicon,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kierkegaard,influenced_by,french_existentialism,søren_kierkegaard,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,tolstoy,published_in,anna_karenina,x1877,contradicted,verified,1877 ~ [1877]
+Claude Sonnet 3.7,lovecraft,created_by,nyarlathotep,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,nietzsche,influenced_by,postmodernism,friedrich_nietzsche,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,homer,influenced_by,james_joyce,homer,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,lovecraft,influenced_by,pseudodionysius,plotinus,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,nietzsche,influenced_by,friedrich_nietzsche,presocratic_philosophers,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,kant,influenced_by,german_idealism,immanuel_kant,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,woolf,written_by,flush_a_biography,virginia_woolf,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,homer,influenced_by,renaissance_literature,homer,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,lovecraft,written_by,the_colour_out_of_space,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,nietzsche,influenced_by,friedrich_nietzsche,richard_wagner,verified,verified,P737 match
+Claude Sonnet 3.7,plato,influenced_by,plato,pythagoras,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,civil_war,born_in,robert_e_lee,x1807,verified,not_in_wikidata,no date
+Claude Sonnet 3.7,hume,influenced_by,charles_darwin,david_hume,verified,verified,P737 match
+Claude Sonnet 3.7,dickinson,influenced_by,transcendentalism,romanticism,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,civil_war,located_in,battle_of_vicksburg,mississippi,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,kant,influenced_by,immanuel_kant,david_hume,verified,verified,P737 match
+Claude Sonnet 3.7,shelley,influenced_by,mary_shelley,percy_bysshe_shelley,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,lovecraft,created_by,dream_cycle,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kierkegaard,influenced_by,søren_kierkegaard,gwf_hegel,verified,verified,P737 match
+Claude Sonnet 3.7,kant,influenced_by,arthur_schopenhauer,immanuel_kant,verified,verified,P737 match
+Claude Sonnet 3.7,civil_war,located_in,emancipation_proclamation,united_states_national_archives,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,civil_war,died_in,william_tecumseh_sherman,x1891,verified,verified,1891 ~ [1891]
+Claude Sonnet 3.7,tolstoy,influenced_by,james_joyce,war_and_peace_novel,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,sartre,influenced_by,jeanpaul_sartre,karl_marx,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,kierkegaard,influenced_by,martin_heidegger,søren_kierkegaard,verified,verified,P737 match
+Claude Sonnet 3.7,lovecraft,written_by,the_colour_out_of_space,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,shelley,written_by,mathilda,mary_shelley,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,hume,influenced_by,immanuel_kant,david_hume,verified,verified,P737 match
+Claude Sonnet 3.7,aquinas,influenced_by,thomas_aquinas,albertus_magnus,verified,verified,P737 match
+Claude Sonnet 3.7,lovecraft,published_in,shadow_over_innsmouth,x1936,link_fail,link_fail,work not linked
+Claude Sonnet 3.7,shelley,published_in,frankenstein_novel,x1818_publication,link_fail,link_fail,work not linked
+Claude Sonnet 3.7,plato,founded_by,academy,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,plato,influenced_by,plato,heraclitus,verified,verified,P737 match
+Claude Sonnet 3.7,plato,founded_by,academy_of_athens_ancient,plato,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,shelley,written_by,the_last_man,mary_shelley,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,aquinas,influenced_by,john_locke,natural_law,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,tolstoy,published_in,resurrection,x1899,contradicted,contradicted,"claimed 1899, wikidata [1992]"
+Claude Sonnet 3.7,plato,influenced_by,plotinus,plato,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,sartre,influenced_by,jeanpaul_sartre,edmund_husserl,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,nietzsche,influenced_by,existentialism,friedrich_nietzsche,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,dickinson,influenced_by,emily_dickinson,transcendentalism,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,dickinson,published_in,the_raven,x1845,verified,verified,1845 ~ [1845]
+Claude Sonnet 3.7,nietzsche,influenced_by,jeanpaul_sartre,friedrich_nietzsche,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,lovecraft,published_in,the_horror_at_red_hook,weird_tales_magazine,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,kafka,published_in,the_metamorphosis,x1915,verified,verified,"1915 ~ [1915, 1915]"
+Claude Sonnet 3.7,shelley,written_by,valperga,mary_shelley,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,aquinas,influenced_by,thomas_aquinas,augustine_of_hippo,verified,verified,P737 match
+Claude Sonnet 3.7,aquinas,influenced_by,francisco_suárez,thomas_aquinas,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,tolstoy,written_by,the_kingdom_of_god_is_within_you,leo_tolstoy,verified,verified,P50 match
+Claude Sonnet 3.7,hume,influenced_by,ge_moore,distinction_between_is_and_ought,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,aquinas,influenced_by,thomas_aquinas,aristotle,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,dante,written_by,divine_comedy,dante_alighieri,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,woolf,written_by,the_hours_novel,michael_cunningham,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,plato,influenced_by,gwf_hegel,plato,verified,verified,P737 match
+Claude Sonnet 3.7,dickinson,influenced_by,emily_dickinson,ralph_waldo_emerson,verified,verified,P737 match
+Claude Sonnet 3.7,plato,founded_by,academy,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,tolstoy,influenced_by,mahatma_gandhi,leo_tolstoy,verified,verified,P737 match
+Claude Sonnet 3.7,hume,influenced_by,utilitarianism,david_hume,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kierkegaard,influenced_by,martin_buber,søren_kierkegaard,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,published_in,the_waves,interwar_period,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,kafka,published_in,the_castle,x1926,contradicted,verified,1926 ~ [1926]
+Claude Sonnet 3.7,civil_war,died_in,jefferson_davis,x1889,verified,contradicted,"claimed 1889, wikidata [1879]"
+Claude Sonnet 3.7,kafka,influenced_by,martin_heidegger,edmund_husserl,verified,verified,P737 match
+Claude Sonnet 3.7,plato,influenced_by,augustine,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,civil_war,died_in,ulysses_s_grant,x1885,verified,verified,"1885 ~ [1885, 1885]"
+Claude Sonnet 3.7,tolstoy,published_in,war_and_peace,x1869,not_in_wikidata,verified,1869 ~ [1869]
+Claude Sonnet 3.7,shelley,published_in,valperga,x1823,not_in_wikidata,verified,1823 ~ [1823]
+Claude Sonnet 3.7,kierkegaard,influenced_by,albert_camus,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,written_by,mrs_dalloway,virginia_woolf,verified,verified,P50 match
+Claude Sonnet 3.7,plato,influenced_by,plato,parmenides,verified,verified,P737 match
+Claude Sonnet 3.7,aquinas,influenced_by,john_finnis,thomas_aquinas,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,woolf,published_in,a_room_of_ones_own,interwar_period,unsupported,unsupported,object not a year
+Claude Sonnet 3.7,lovecraft,influenced_by,hp_lovecraft,algernon_blackwood,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,plato,influenced_by,christianity,platonism,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,nietzsche,influenced_by,gilles_deleuze,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,lovecraft,created_by,randolph_carter,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,plato,influenced_by,aristotle,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,dante,influenced_by,dante_alighieri,medieval_christianity,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,hume,influenced_by,david_hume,george_berkeley,verified,verified,P737 match
+Claude Sonnet 3.7,hume,influenced_by,david_hume,isaac_newton,verified,verified,P737 match
+Claude Sonnet 3.7,lovecraft,published_in,the_colour_out_of_space,x1927,verified,verified,1927 ~ [1927]
+Claude Sonnet 3.7,woolf,written_by,between_the_acts,virginia_woolf,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,plato,influenced_by,aristotle,plato,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,tolstoy,published_in,war_and_peace_novel,russian_empire,link_fail,link_fail,work not linked
+Claude Sonnet 3.7,aquinas,influenced_by,étienne_gilson,thomas_aquinas,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,nietzsche,influenced_by,martin_heidegger,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,kierkegaard,influenced_by,albert_camus,søren_kierkegaard,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,influenced_by,omega_workshops,postimpressionism,not_in_wikidata,not_in_wikidata,no claim
+Claude Sonnet 3.7,kant,influenced_by,immanuel_kant,jeanjacques_rousseau,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,kant,influenced_by,immanuel_kant,christian_wolff,not_in_wikidata,not_in_wikidata,relation absent
+Claude Sonnet 3.7,plato,influenced_by,plato,parmenides,verified,verified,P737 match
+Claude Sonnet 3.7,tolstoy,influenced_by,leo_tolstoy,nikolai_gogol,verified,verified,P737 match
+Claude Sonnet 3.7,sartre,influenced_by,jeanpaul_sartre,georg_wilhelm_friedrich_hegel,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,civil_war,located_in,appomattox_court_house,virginia,verified,verified,P131 match
+Claude Sonnet 3.7,nietzsche,influenced_by,michel_foucault,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,shelley,written_by,frankenstein_novel,mary_shelley,link_fail,link_fail,entity not linked
+Claude Sonnet 3.7,tolstoy,influenced_by,leo_tolstoy,alexander_pushkin,verified,verified,P737 match
+Claude Sonnet 3.7,woolf,written_by,the_waves,virginia_woolf,not_in_wikidata,verified,P50 match
+Claude Sonnet 3.7,kafka,influenced_by,albert_camus,friedrich_nietzsche,verified,verified,P737 match
+Claude Sonnet 3.7,civil_war,born_in,ulysses_s_grant,x1822,verified,verified,"1822 ~ [1822, 1822]"
+GPT-4.1,gabriel_garcia_marquez,influenced_by,gabriel_garcia_marquez,cuban_revolution,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,world_war_ii,located_in,battle_of_stalingrad,stalingrad_soviet_union,link_fail,link_fail,entity not linked
+GPT-4.1,john_locke,influenced_by,jeanjacques_rousseau,john_locke,link_fail,link_fail,entity not linked
+GPT-4.1,haruki_murakami,published_in,hardboiled_wonderland_and_the_end_of_the_world,x1985,verified,verified,1985 ~ [1985]
+GPT-4.1,woolf,published_in,ulysses,x1922,not_in_wikidata,contradicted,"claimed 1922, wikidata [1961]"
+GPT-4.1,the_black_death,born_in,giovanni_boccaccio,x1313,verified,verified,"1313 ~ [1313, 1313, 1313]"
+GPT-4.1,gabriel_garcia_marquez,influenced_by,midnights_children,one_hundred_years_of_solitude,link_fail,link_fail,entity not linked
+GPT-4.1,homer,written_by,theogony,hesiod,verified,verified,P50 match
+GPT-4.1,the_protestant_reformation,died_in,john_calvin,x1564,verified,verified,1564 ~ [1564]
+GPT-4.1,civil_war,died_in,robert_e_lee,x1870,verified,not_in_wikidata,no date
+GPT-4.1,kafka,published_in,the_brothers_karamazov,x1880,verified,verified,1880 ~ [1880]
+GPT-4.1,sartre,influenced_by,albert_camus,friedrich_nietzsche,verified,verified,P737 match
+GPT-4.1,fyodor_dostoevsky,born_in,fyodor_dostoevsky,moscow,verified,verified,place match
+GPT-4.1,tolstoy,published_in,fathers_and_sons,x1862,verified,verified,1862 ~ [1862]
+GPT-4.1,augustine_of_hippo,influenced_by,reformation_theology,augustinianism,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,homer,written_by,the_iliad,homer,verified,verified,P50 match
+GPT-4.1,dickinson,influenced_by,emily_dickinson,the_bible,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,roman_empire,founded_by,ostrogothic_kingdom,theoderic_the_great,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,charlotte_bronte,written_by,lady_audleys_secret,mary_elizabeth_braddon,link_fail,link_fail,entity not linked
+GPT-4.1,mark_twain,influenced_by,american_realism,european_realism,link_fail,link_fail,entity not linked
+GPT-4.1,shelley,written_by,frankenstein_or_the_modern_prometheus,mary_shelley,verified,verified,P50 match
+GPT-4.1,nietzsche,influenced_by,eternal_recurrence,arthur_schopenhauer,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,sartre,influenced_by,martin_heidegger,søren_kierkegaard,verified,verified,P737 match
+GPT-4.1,john_locke,influenced_by,enlightenment,social_contract_theory,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,ludwig_wittgenstein,influenced_by,john_searle,jl_austin,link_fail,link_fail,entity not linked
+GPT-4.1,homer,influenced_by,aeneid,the_odyssey,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,simone_de_beauvoir,influenced_by,simone_de_beauvoir,jeanpaul_sartre,link_fail,link_fail,entity not linked
+GPT-4.1,mark_twain,written_by,daisy_miller,henry_james,not_in_wikidata,verified,P50 match
+GPT-4.1,the_protestant_reformation,died_in,huldrych_zwingli,x1531,verified,verified,1531 ~ [1531]
+GPT-4.1,karl_marx,influenced_by,western_marxism,historical_materialism,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,borges,published_in,the_book_of_sand,x1975,verified,verified,1975 ~ [1975]
+GPT-4.1,gabriel_garcia_marquez,born_in,gabriel_garcia_marquez,aracataca,verified,verified,place match
+GPT-4.1,dickinson,written_by,collected_poems,emily_dickinson,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,james_joyce,born_in,james_joyce,dublin,verified,verified,place match
+GPT-4.1,borges,published_in,el_aleph,x1949,contradicted,verified,1949 ~ [1949]
+GPT-4.1,charlotte_bronte,written_by,the_professor,charlotte_brontë,not_in_wikidata,verified,P50 match
+GPT-4.1,maya_angelou,published_in,on_the_pulse_of_morning,x1993,not_in_wikidata,not_in_wikidata,no publication date
+GPT-4.1,industrial_revolution,died_in,charles_dickens,x1870,link_fail,link_fail,person not linked
+GPT-4.1,borges,published_in,the_garden_of_forking_paths,x1941,not_in_wikidata,verified,1941 ~ [1941]
+GPT-4.1,gabriel_garcia_marquez,published_in,love_in_the_time_of_cholera,x1985,verified,verified,1985 ~ [1985]
+GPT-4.1,ludwig_wittgenstein,influenced_by,logical_positivism,tractatus_logicophilosophicus,link_fail,link_fail,entity not linked
+GPT-4.1,the_space_race,born_in,gene_kranz,x1933,verified,verified,1933 ~ [1933]
+GPT-4.1,kafka,published_in,metamorphosis,x1915,contradicted,contradicted,"claimed 1915, wikidata [1972]"
+GPT-4.1,roman_empire,located_in,constantinople,eastern_roman_empire,verified,not_in_wikidata,relation absent
+GPT-4.1,tolstoy,written_by,leo_tolstoys_short_stories,leo_tolstoy,link_fail,link_fail,entity not linked
+GPT-4.1,civil_war,located_in,appomattox_court_house,virginia,verified,verified,P131 match
+GPT-4.1,fyodor_dostoevsky,written_by,the_idiot,fyodor_dostoevsky,verified,verified,P50 match
+GPT-4.1,woolf,published_in,pilgrimage,x19151967,unsupported,unsupported,object not a year
+GPT-4.1,industrial_revolution,died_in,george_stephenson,x1848,link_fail,link_fail,person not linked
+GPT-4.1,wwi,located_in,western_front,france,verified,verified,P276 match
+GPT-4.1,jane_austen,written_by,emma,jane_austen,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,the_crusades,born_in,pope_urban_ii,x1042,contradicted,contradicted,"claimed 1042, wikidata [1035]"
+GPT-4.1,borges,written_by,ficciones,jorge_luis_borges,verified,verified,P50 match
+GPT-4.1,borges,influenced_by,borges_late_writing_style,blindness_borges_condition,link_fail,link_fail,entity not linked
+GPT-4.1,renaissance,died_in,desiderius_erasmus,x1536,verified,verified,"1536 ~ [1536, 1536, 1536]"
+GPT-4.1,the_crusades,located_in,the_crusades,holy_land,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,maya_angelou,written_by,the_souls_of_black_folk,w_e_b_du_bois,link_fail,link_fail,entity not linked
+GPT-4.1,fyodor_dostoevsky,written_by,notes_from_underground,fyodor_dostoevsky,verified,verified,P50 match
+GPT-4.1,dante,written_by,convivio,dante_alighieri,verified,verified,P50 match
+GPT-4.1,dickinson,influenced_by,emily_dickinson,emily_brontë,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,william_shakespeare,written_by,king_lear,william_shakespeare,verified,verified,P50 match
+GPT-4.1,sartre,influenced_by,jeanpaul_sartre,martin_heidegger,link_fail,link_fail,entity not linked
+GPT-4.1,the_space_race,born_in,sergei_korolev,x1907,verified,verified,"1907 ~ [1906, 1907]"
+GPT-4.1,kafka,published_in,the_stranger,x1942,contradicted,contradicted,"claimed 1942, wikidata [1909]"
+GPT-4.1,the_protestant_reformation,died_in,martin_luther,x1546,verified,verified,1546 ~ [1546]
+GPT-4.1,sylvia_plath,born_in,sylvia_plath,boston,verified,verified,place match
+GPT-4.1,roman_empire,born_in,constantine_the_great,x272,verified,verified,"272 ~ [272, 274, 274, 300]"
+GPT-4.1,fyodor_dostoevsky,influenced_by,lev_shestov,fyodor_dostoevsky,verified,verified,P737 match
+GPT-4.1,haruki_murakami,written_by,the_housekeeper_and_the_professor,yoko_ogawa,verified,verified,P50 match
+GPT-4.1,james_joyce,influenced_by,virginia_woolf,james_joyce,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,james_joyce,published_in,the_dead,x1914,not_in_wikidata,verified,1914 ~ [1914]
+GPT-4.1,industrial_revolution,born_in,samuel_slater,x1768,link_fail,link_fail,person not linked
+GPT-4.1,woolf,written_by,jacobs_room,virginia_woolf,link_fail,link_fail,entity not linked
+GPT-4.1,mark_twain,influenced_by,the_adventures_of_huckleberry_finn,american_dialect,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,civil_war,located_in,battle_of_fort_sumter,south_carolina,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,aquinas,influenced_by,natural_law,human_nature,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,james_joyce,influenced_by,to_the_lighthouse,ulysses,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,world_war_ii,died_in,adolf_hitler,x1945,verified,not_in_wikidata,no date
+GPT-4.1,kant,influenced_by,gwf_hegel,immanuel_kant,verified,verified,P737 match
+GPT-4.1,kafka,written_by,letter_to_his_father,franz_kafka,verified,verified,P50 match
+GPT-4.1,lovecraft,written_by,the_call_of_cthulhu,hp_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,homer,published_in,the_iliad,c_8th_century_bce,unsupported,unsupported,object not a year
+GPT-4.1,renaissance,died_in,copernicus,x1543,verified,verified,"1543 ~ [1543, 1543]"
+GPT-4.1,james_joyce,written_by,the_dead,james_joyce,not_in_wikidata,verified,P50 match
+GPT-4.1,kafka,written_by,the_trial,franz_kafka,verified,verified,P50 match
+GPT-4.1,fyodor_dostoevsky,written_by,demons,fyodor_dostoevsky,not_in_wikidata,verified,P50 match
+GPT-4.1,the_space_race,founded_by,nasa,united_states,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,the_space_race,born_in,wernher_von_braun,x1912,verified,verified,1912 ~ [1912]
+GPT-4.1,industrial_revolution,located_in,manchester,england,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,the_protestant_reformation,founded_by,lutheranism,martin_luther,verified,verified,P112 match
+GPT-4.1,karl_marx,influenced_by,historical_materialism,georg_wilhelm_friedrich_hegel,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,tolstoy,born_in,leo_tolstoy,russian_empire,not_in_wikidata,not_in_wikidata,place granularity/mismatch
+GPT-4.1,simone_de_beauvoir,influenced_by,judith_butler,simone_de_beauvoir,link_fail,link_fail,entity not linked
+GPT-4.1,age_of_exploration,died_in,hernán_cortés,x1547,verified,verified,"1547 ~ [1547, 1547]"
+GPT-4.1,kant,influenced_by,arthur_schopenhauer,immanuel_kant,verified,verified,P737 match
+GPT-4.1,aquinas,influenced_by,john_locke,grotius,verified,not_in_wikidata,relation absent
+GPT-4.1,lovecraft,written_by,the_call_of_cthulhu,h_p_lovecraft,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,homer,influenced_by,aeneid,the_iliad,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,sylvia_plath,written_by,ariel,sylvia_plath,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,sartre,influenced_by,existentialism,friedrich_nietzsche,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,french_revolution,born_in,georges_danton,x1759,verified,verified,"1759 ~ [1759, 1759]"
+GPT-4.1,jean_jacques_rousseau,influenced_by,romanticism,jeanjacques_rousseau,link_fail,link_fail,entity not linked
+GPT-4.1,french_revolution,located_in,paris,france,verified,verified,P17 match
+GPT-4.1,the_space_race,born_in,valentina_tereshkova,x1937,verified,verified,1937 ~ [1937]
+GPT-4.1,civil_war,located_in,slavery,american_south,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,homer,written_by,the_odyssey,homer,verified,verified,P50 match
+GPT-4.1,sylvia_plath,published_in,daddy,ariel,unsupported,unsupported,object not a year
+GPT-4.1,nietzsche,influenced_by,friedrich_nietzsche,arthur_schopenhauer,verified,verified,P737 match
+GPT-4.1,mark_twain,published_in,daisy_miller,x1878,contradicted,verified,1878 ~ [1879]
+GPT-4.1,the_black_death,died_in,giovanni_boccaccio,x1375,verified,verified,"1375 ~ [1375, 1375, 1375, 1375]"
+GPT-4.1,william_shakespeare,born_in,william_shakespeare,stratforduponavon,verified,verified,place match
+GPT-4.1,renaissance,died_in,raphael,x1520,not_in_wikidata,not_in_wikidata,no date
+GPT-4.1,gabriel_garcia_marquez,influenced_by,gabriel_garcia_marquez,miguel_de_cervantes,link_fail,link_fail,entity not linked
+GPT-4.1,civil_war,died_in,jefferson_davis,x1889,verified,contradicted,"claimed 1889, wikidata [1879]"
+GPT-4.1,jane_austen,born_in,jane_austen,england,not_in_wikidata,not_in_wikidata,place granularity/mismatch
+GPT-4.1,world_war_ii,located_in,yad_vashem,israel,verified,verified,P17 match
+GPT-4.1,dickinson,published_in,collected_poems,x1955,contradicted,not_in_wikidata,no publication date
+GPT-4.1,dante,born_in,dante_alighieri,florence,not_in_wikidata,not_in_wikidata,place granularity/mismatch
+GPT-4.1,world_war_ii,located_in,dday,normandy_france,link_fail,link_fail,entity not linked
+GPT-4.1,jane_austen,died_in,jane_austen,x1817,verified,verified,"1817 ~ [1817, 1877, 1817]"
+GPT-4.1,maya_angelou,written_by,gather_together_in_my_name,maya_angelou,verified,verified,P50 match
+GPT-4.1,charlotte_bronte,published_in,shirley,x1849,not_in_wikidata,not_in_wikidata,no publication date
+GPT-4.1,shelley,influenced_by,frankenstein_or_the_modern_prometheus,prometheus_myth,link_fail,link_fail,entity not linked
+GPT-4.1,maya_angelou,published_in,the_heart_of_a_woman,x1981,contradicted,link_fail,work not linked
+GPT-4.1,age_of_exploration,located_in,old_world,africa,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,tolstoy,written_by,war_and_peace,leo_tolstoy,not_in_wikidata,verified,P50 match
+GPT-4.1,james_joyce,written_by,mrs_dalloway,virginia_woolf,verified,verified,P50 match
+GPT-4.1,maya_angelou,written_by,invisible_man,ralph_ellison,not_in_wikidata,verified,P50 match
+GPT-4.1,lovecraft,published_in,the_call_of_cthulhu,weird_tales,unsupported,unsupported,object not a year
+GPT-4.1,wwi,died_in,kaiser_wilhelm_ii,x1941,verified,verified,1941 ~ [1941]
+GPT-4.1,renaissance,born_in,leonardo_bruni,c1370,link_fail,link_fail,place not linked
+GPT-4.1,dante,written_by,vita_nuova,dante_alighieri,verified,verified,P50 match
+GPT-4.1,world_war_ii,born_in,adolf_hitler,x1889,verified,contradicted,"claimed 1889, wikidata [1965]"
+GPT-4.1,kafka,published_in,nausea,x1938,link_fail,link_fail,work not linked
+GPT-4.1,the_space_race,died_in,michael_collins,x2021,verified,verified,2021 ~ [2021]
+GPT-4.1,civil_war,died_in,william_tecumseh_sherman,x1891,verified,verified,1891 ~ [1891]
+GPT-4.1,dickinson,written_by,poem_479_because_i_could_not_stop_for_death,emily_dickinson,link_fail,link_fail,entity not linked
+GPT-4.1,civil_war,born_in,william_tecumseh_sherman,x1820,verified,verified,1820 ~ [1820]
+GPT-4.1,jean_jacques_rousseau,influenced_by,john_rawls,contractarianism,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,civil_war,born_in,jefferson_davis,x1808,verified,contradicted,"claimed 1808, wikidata [1828]"
+GPT-4.1,karl_marx,written_by,the_communist_manifesto,friedrich_engels,verified,verified,P50 match
+GPT-4.1,homer,written_by,works_and_days,hesiod,verified,verified,P50 match
+GPT-4.1,haruki_murakami,written_by,killing_commendatore,haruki_murakami,verified,verified,P50 match
+GPT-4.1,nietzsche,influenced_by,nietzsches_doctrine_of_eternal_recurrence,arthur_schopenhauer,link_fail,link_fail,entity not linked
+GPT-4.1,dante,written_by,the_divine_comedy,dante_alighieri,verified,verified,P50 match
+GPT-4.1,woolf,written_by,to_the_lighthouse,virginia_woolf,verified,verified,P50 match
+GPT-4.1,dante,influenced_by,dante_alighieri,virgil_author_of_the_aeneid,link_fail,link_fail,entity not linked
+GPT-4.1,maya_angelou,published_in,all_gods_children_need_traveling_shoes,x1986,link_fail,link_fail,work not linked
+GPT-4.1,jean_jacques_rousseau,influenced_by,jeanjacques_rousseau,thomas_hobbes,link_fail,link_fail,entity not linked
+GPT-4.1,thomas_hobbes,published_in,two_treatises_of_government,x1689,contradicted,contradicted,"claimed 1689, wikidata [2007]"
+GPT-4.1,tolstoy,born_in,leo_tolstoy,x1828,verified,verified,"1828 ~ [1828, 1828]"
+GPT-4.1,fyodor_dostoevsky,influenced_by,nikolai_berdyaev,fyodor_dostoevsky,verified,verified,P737 match
+GPT-4.1,borges,published_in,ficciones,x1944,verified,verified,1944 ~ [1944]
+GPT-4.1,haruki_murakami,published_in,a_wild_sheep_chase,x1982,verified,verified,1982 ~ [1982]
+GPT-4.1,shelley,published_in,the_prelude,x1850,not_in_wikidata,not_in_wikidata,no publication date
+GPT-4.1,the_space_race,born_in,john_f_kennedy,x1917,verified,contradicted,"claimed 1917, wikidata [1942]"
+GPT-4.1,age_of_exploration,died_in,bartolomeu_dias,x1500,verified,verified,1500 ~ [1500]
+GPT-4.1,haruki_murakami,influenced_by,haruki_murakami,gabriel_garcia_marquez,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,sylvia_plath,published_in,hearts_needle,x1959,link_fail,link_fail,work not linked
+GPT-4.1,karl_marx,written_by,das_kapital,karl_marx,link_fail,link_fail,entity not linked
+GPT-4.1,thomas_hobbes,influenced_by,immanuel_kant,jeanjacques_rousseau,link_fail,link_fail,entity not linked
+GPT-4.1,the_crusades,founded_by,knights_hospitaller,gerard_thom,not_in_wikidata,not_in_wikidata,relation absent
+GPT-4.1,woolf,written_by,the_hours,michael_cunningham,not_in_wikidata,verified,P50 match
+GPT-4.1,fyodor_dostoevsky,published_in,the_idiot,x1869,verified,verified,1869 ~ [1869]
+GPT-4.1,homer,published_in,works_and_days,c_700_bce,unsupported,unsupported,object not a year
+GPT-4.1,lovecraft,influenced_by,posthumous_influence,hp_lovecraft,link_fail,link_fail,entity not linked
+GPT-4.1,charlotte_bronte,written_by,villette,charlotte_brontë,not_in_wikidata,not_in_wikidata,no claim
+GPT-4.1,maya_angelou,published_in,mom__me__mom,x2013,link_fail,link_fail,work not linked
+GPT-4.1,the_black_death,died_in,ibn_alwardi,x1349,link_fail,link_fail,person not linked
+GPT-4.1,industrial_revolution,died_in,isambard_kingdom_brunel,x1859,verified,verified,1859 ~ [1859]
+Grok 3,age_of_exploration,located_in,french_empire,africa,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,lovecraft,influenced_by,maimonides,aristotle,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,borges,published_in,the_kingdom_of_this_world,x1949,contradicted,contradicted,"claimed 1949, wikidata [1957]"
+Grok 3,borges,written_by,one_hundred_years_of_solitude,gabriel_garcia_marquez,verified,verified,P50 match
+Grok 3,french_revolution,died_in,immanuel_kant,x1804,verified,verified,1804 ~ [1804]
+Grok 3,woolf,published_in,orlando,x1928,not_in_wikidata,not_in_wikidata,no publication date
+Grok 3,lovecraft,published_in,at_the_mountains_of_madness,x1936,contradicted,verified,1936 ~ [1936]
+Grok 3,nietzsche,influenced_by,friedrich_nietzsche,immanuel_kant,verified,verified,P737 match
+Grok 3,tolstoy,published_in,crime_and_punishment,x1866,contradicted,verified,1866 ~ [1866]
+Grok 3,shelley,published_in,frankenstein,x1818,not_in_wikidata,contradicted,"claimed 1818, wikidata [1987]"
+Grok 3,homer,influenced_by,divine_comedy,the_odyssey,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,tolstoy,published_in,war_and_peace,x1869,not_in_wikidata,verified,1869 ~ [1869]
+Grok 3,homer,published_in,the_iliad,x8th_century_bce,unsupported,unsupported,object not a year
+Grok 3,cold_war,located_in,cape_canaveral,united_states,verified,verified,P17 match
+Grok 3,lovecraft,influenced_by,true_detective_tv_series,the_king_in_yellow,link_fail,link_fail,entity not linked
+Grok 3,wwi,born_in,kaiser_wilhelm_ii,x1859,verified,verified,1859 ~ [1859]
+Grok 3,renaissance,born_in,christopher_columbus,x1451,verified,verified,"1451 ~ [1450, 1451, 1451, 1451, 1451, 1451]"
+Grok 3,civil_war,born_in,frederick_douglass,x1818,verified,verified,"1818 ~ [1817, 1818, 1818]"
+Grok 3,renaissance,located_in,italian_citystates,italy,link_fail,link_fail,entity not linked
+Grok 3,lovecraft,created_by,circle_limit_series,mc_escher,link_fail,link_fail,entity not linked
+Grok 3,roman_empire,located_in,eastern_roman_empire,constantinople,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,civil_war,died_in,abraham_lincoln,x1865,verified,contradicted,"claimed 1865, wikidata [1786]"
+Grok 3,homer,written_by,aeneid,virgil,verified,verified,P50 match
+Grok 3,borges,influenced_by,magical_realism,surrealism,not_in_wikidata,link_fail,entity not linked
+Grok 3,french_revolution,born_in,montesquieu,x1689,verified,verified,1689 ~ [1689]
+Grok 3,kierkegaard,influenced_by,albert_camus,søren_kierkegaard,verified,verified,P737 match
+Grok 3,french_revolution,died_in,voltaire,x1778,verified,verified,1778 ~ [1778]
+Grok 3,renaissance,died_in,johannes_gutenberg,x1468,verified,verified,"1468 ~ [1468, 1468, 1468]"
+Grok 3,borges,published_in,the_house_of_the_spirits,x1982,verified,verified,1982 ~ [1982]
+Grok 3,cold_war,born_in,yuri_gagarin,x1934,verified,verified,1934 ~ [1934]
+Grok 3,tolstoy,published_in,uncle_vanya,x1899,verified,verified,1899 ~ [1897]
+Grok 3,age_of_exploration,located_in,portuguese_exploration,africa,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,industrial_revolution,born_in,george_stephenson,x1781,verified,verified,1781 ~ [1781]
+Grok 3,lovecraft,written_by,hp_lovecraft,at_the_mountains_of_madness,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,renaissance,died_in,william_shakespeare,x1616,verified,verified,"1616 ~ [1616, 1616]"
+Grok 3,woolf,influenced_by,the_sound_and_the_fury,ulysses,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,homer,written_by,the_aeneid,virgil,not_in_wikidata,verified,P50 match
+Grok 3,hume,influenced_by,immanuel_kant,david_hume,verified,verified,P737 match
+Grok 3,civil_war,died_in,robert_e_lee,x1870,verified,not_in_wikidata,no date
+Grok 3,plato,influenced_by,john_stuart_mill,jeremy_bentham,not_in_wikidata,link_fail,entity not linked
+Grok 3,age_of_exploration,died_in,christopher_columbus,x1506,verified,verified,"1506 ~ [1506, 1506, 1506]"
+Grok 3,borges,influenced_by,jorge_luis_borges,franz_kafka,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,aristotle,influenced_by,aristotle,plato,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,dante,influenced_by,the_divine_comedy,classical_literature,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,woolf,written_by,mrs_dalloway,virginia_woolf,verified,verified,P50 match
+Grok 3,age_of_exploration,born_in,henry_the_navigator,x1394,verified,verified,1394 ~ [1394]
+Grok 3,tolstoy,written_by,the_cherry_orchard,anton_chekhov,verified,verified,P50 match
+Grok 3,industrial_revolution,died_in,eli_whitney,x1825,verified,verified,1825 ~ [1825]
+Grok 3,borges,influenced_by,gabriel_giorgi,jorge_luis_borges,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,kierkegaard,influenced_by,jeanpaul_sartre,søren_kierkegaard,link_fail,link_fail,entity not linked
+Grok 3,shelley,influenced_by,mary_shelley,lord_byron,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,sartre,influenced_by,jeanpaul_sartre,martin_heidegger,link_fail,link_fail,entity not linked
+Grok 3,industrial_revolution,died_in,james_watt,x1819,verified,verified,"1819 ~ [1819, 1819]"
+Grok 3,borges,influenced_by,the_house_of_the_spirits,one_hundred_years_of_solitude,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,dickinson,published_in,the_complete_poems_of_emily_dickinson,x1955,contradicted,contradicted,"claimed 1955, wikidata [1924]"
+Grok 3,borges,published_in,el_aleph,x1949,contradicted,verified,1949 ~ [1949]
+Grok 3,kafka,written_by,nausea,jeanpaul_sartre,link_fail,link_fail,entity not linked
+Grok 3,kant,influenced_by,johann_gottlieb_fichte,immanuel_kant,verified,verified,P737 match
+Grok 3,lovecraft,influenced_by,hp_lovecraft,arthur_machen,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,cold_war,located_in,berlin_blockade,berlin_germany,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,cold_war,died_in,yuri_gagarin,x1968,verified,verified,1968 ~ [1968]
+Grok 3,kafka,written_by,the_metamorphosis,franz_kafka,verified,verified,P50 match
+Grok 3,wwi,died_in,kaiser_wilhelm_ii,x1941,verified,verified,1941 ~ [1941]
+Grok 3,lovecraft,influenced_by,alien_film,hp_lovecraft,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,renaissance,died_in,raphael,x1520,not_in_wikidata,not_in_wikidata,no date
+Grok 3,lovecraft,created_by,hyperborea,clark_ashton_smith,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,dickinson,influenced_by,emily_dickinson,puritanism,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,kafka,written_by,the_stranger,albert_camus,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,shelley,influenced_by,mary_shelley,john_polidori,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,borges,written_by,ficciones,jorge_luis_borges,verified,verified,P50 match
+Grok 3,renaissance,born_in,william_shakespeare,x1564,verified,verified,"1564 ~ [1564, 1564, 1564]"
+Grok 3,roman_empire,located_in,western_roman_empire,rome,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,cold_war,founded_by,warsaw_pact,soviet_union,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,borges,influenced_by,umberto_eco,jorge_luis_borges,link_fail,link_fail,entity not linked
+Grok 3,french_revolution,located_in,french_revolution,france,verified,verified,P276 match
+Grok 3,tolstoy,published_in,resurrection,x1899,contradicted,contradicted,"claimed 1899, wikidata [1992]"
+Grok 3,lovecraft,published_in,it,x1986,not_in_wikidata,not_in_wikidata,no publication date
+Grok 3,industrial_revolution,born_in,eli_whitney,x1765,verified,verified,1765 ~ [1765]
+Grok 3,plato,influenced_by,plotinus,plato,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,tolstoy,written_by,crime_and_punishment,fyodor_dostoevsky,not_in_wikidata,verified,P50 match
+Grok 3,plato,influenced_by,elizabeth_anscombe,aristotle,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,homer,written_by,the_iliad,homer,verified,verified,P50 match
+Grok 3,shelley,written_by,the_last_man,mary_shelley,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,dickinson,published_in,because_i_could_not_stop_for_death,x1890,verified,verified,1890 ~ [1890]
+Grok 3,dickinson,written_by,emily_dickinson,i_heard_a_fly_buzz__when_i_died,link_fail,link_fail,entity not linked
+Grok 3,homer,written_by,divine_comedy,dante_alighieri,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,homer,written_by,the_odyssey,homer,verified,verified,P50 match
+Grok 3,borges,published_in,one_hundred_years_of_solitude,x1967,verified,verified,1967 ~ [1967]
+Grok 3,kafka,written_by,the_castle,franz_kafka,not_in_wikidata,verified,P50 match
+Grok 3,tolstoy,published_in,poor_folk,x1846,verified,verified,1846 ~ [1846]
+Grok 3,lovecraft,written_by,an_inhabitant_of_carcosa,ambrose_bierce,verified,verified,P50 match
+Grok 3,french_revolution,born_in,voltaire,x1694,verified,verified,"1694 ~ [1694, 1694]"
+Grok 3,roman_empire,influenced_by,fall_of_the_roman_empire,religious_transition,link_fail,link_fail,entity not linked
+Grok 3,shelley,influenced_by,frankenstein,mary_wollstonecraft,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,civil_war,born_in,ulysses_s_grant,x1822,verified,verified,"1822 ~ [1822, 1822]"
+Grok 3,cold_war,located_in,nasa,united_states,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,age_of_exploration,died_in,ferdinand_magellan,x1521,verified,verified,1521 ~ [1521]
+Grok 3,dante,influenced_by,the_divine_comedy,christian_theology,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,french_revolution,influenced_by,declaration_of_independence,the_enlightenment,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,woolf,influenced_by,ulysses,in_search_of_lost_time,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,plato,influenced_by,immanuel_kant,jeanjacques_rousseau,link_fail,link_fail,entity not linked
+Grok 3,plato,influenced_by,plotinus,plato,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,wwi,born_in,woodrow_wilson,x1856,verified,contradicted,"claimed 1856, wikidata [1915]"
+Grok 3,civil_war,located_in,agricultural_south,southern_united_states,link_fail,link_fail,entity not linked
+Grok 3,woolf,written_by,a_room_of_ones_own,virginia_woolf,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,age_of_exploration,born_in,christopher_columbus,x1451,verified,verified,"1451 ~ [1450, 1451, 1451, 1451, 1451, 1451]"
+Grok 3,aquinas,influenced_by,thomas_aquinas,augustine_of_hippo,verified,verified,P737 match
+Grok 3,age_of_exploration,founded_by,king_leopold_ii,congo_free_state,link_fail,link_fail,entity not linked
+Grok 3,wwi,located_in,trench_warfare,western_front,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,renaissance,born_in,raphael,x1483,not_in_wikidata,contradicted,"claimed 1483, wikidata [1943]"
+Grok 3,kafka,published_in,the_trial,x1925,verified,verified,1925 ~ [1925]
+Grok 3,borges,published_in,ficciones,x1944,verified,verified,1944 ~ [1944]
+Grok 3,dante,written_by,de_vulgari_eloquentia,dante_alighieri,verified,verified,P50 match
+Grok 3,homer,written_by,ulysses,james_joyce,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,french_revolution,born_in,napoleon_bonaparte,x1769,verified,contradicted,"claimed 1769, wikidata [1965]"
+Grok 3,industrial_revolution,born_in,james_watt,x1736,verified,verified,1736 ~ [1736]
+Grok 3,tolstoy,written_by,uncle_vanya,anton_chekhov,verified,verified,P50 match
+Grok 3,lovecraft,published_in,the_shadow_over_innsmouth,x1936,verified,verified,1936 ~ [1936]
+Grok 3,wwi,born_in,georges_clemenceau,x1841,verified,verified,1841 ~ [1841]
+Grok 3,kafka,influenced_by,the_stranger,nausea,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,kierkegaard,influenced_by,martin_heidegger,søren_kierkegaard,verified,verified,P737 match
+Grok 3,kafka,published_in,amerika,x1927,not_in_wikidata,verified,1927 ~ [1927]
+Grok 3,aristotle,influenced_by,thomas_aquinas,aristotle,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,french_revolution,born_in,immanuel_kant,x1724,verified,verified,1724 ~ [1724]
+Grok 3,wwi,located_in,battle_of_the_somme,western_front,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,shelley,written_by,the_mysteries_of_udolpho,ann_radcliffe,verified,verified,P50 match
+Grok 3,lovecraft,published_in,hp_lovecraft,pulp_magazines,unsupported,unsupported,object not a year
+Grok 3,dante,written_by,divine_comedy,dante_alighieri,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,civil_war,located_in,battle_of_antietam,maryland,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,french_revolution,located_in,the_enlightenment,europe,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,lovecraft,influenced_by,hp_lovecraft,edgar_allan_poe,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,dante,written_by,vita_nuova,dante_alighieri,verified,verified,P50 match
+Grok 3,tolstoy,written_by,the_death_of_ivan_ilyich,leo_tolstoy,verified,verified,P50 match
+Grok 3,shelley,published_in,mathilda,x1819,not_in_wikidata,contradicted,"claimed 1819, wikidata [1959]"
+Grok 3,borges,written_by,el_aleph,jorge_luis_borges,not_in_wikidata,verified,P50 match
+Grok 3,homer,published_in,the_odyssey,x8th_century_bce,unsupported,unsupported,object not a year
+Grok 3,woolf,published_in,the_sound_and_the_fury,x1929,contradicted,verified,1929 ~ [1929]
+Grok 3,age_of_exploration,located_in,british_empire,india,not_in_wikidata,link_fail,entity not linked
+Grok 3,wwi,founded_by,league_of_nations,woodrow_wilson,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,kierkegaard,influenced_by,søren_kierkegaard,georg_wilhelm_friedrich_hegel,verified,verified,P737 match
+Grok 3,shelley,written_by,mathilda,mary_shelley,not_in_wikidata,verified,P50 match
+Grok 3,renaissance,born_in,leonardo_da_vinci,x1452,verified,verified,"1452 ~ [1452, 1452]"
+Grok 3,kafka,published_in,the_castle,x1926,contradicted,verified,1926 ~ [1926]
+Grok 3,wwi,located_in,assassination_of_archduke_franz_ferdinand,sarajevo,verified,verified,P131 match
+Grok 3,tolstoy,influenced_by,martin_luther_king_jr,leo_tolstoy,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,woolf,influenced_by,mrs_dalloway,ulysses,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,french_revolution,located_in,american_revolution,north_america,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,lovecraft,published_in,at_the_mountains_of_madness,x1936,contradicted,verified,1936 ~ [1936]
+Grok 3,civil_war,born_in,john_brown,x1800,verified,verified,1800 ~ [1800]
+Grok 3,wwi,died_in,georges_clemenceau,x1929,verified,verified,1929 ~ [1929]
+Grok 3,lovecraft,influenced_by,thomas_aquinas,maimonides,verified,not_in_wikidata,relation absent
+Grok 3,french_revolution,died_in,marie_antoinette,x1793,not_in_wikidata,verified,1793 ~ [1793]
+Grok 3,hume,influenced_by,david_hume,john_locke,verified,verified,P737 match
+Grok 3,age_of_exploration,died_in,king_leopold_ii,x1909,verified,verified,1909 ~ [1909]
+Grok 3,plato,influenced_by,aristotle,plato,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,industrial_revolution,born_in,richard_arkwright,x1732,verified,contradicted,"claimed 1732, wikidata [1835]"
+Grok 3,civil_war,born_in,robert_e_lee,x1807,verified,not_in_wikidata,no date
+Grok 3,kant,influenced_by,immanuel_kant,jeanjacques_rousseau,link_fail,link_fail,entity not linked
+Grok 3,cold_war,founded_by,nasa,united_states,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,dickinson,written_by,emily_dickinson,because_i_could_not_stop_for_death,not_in_wikidata,not_in_wikidata,relation absent
+Grok 3,industrial_revolution,died_in,george_stephenson,x1848,verified,verified,1848 ~ [1848]
+Grok 3,dante,published_in,divine_comedy,x1321,contradicted,contradicted,"claimed 1321, wikidata [2025]"
+Grok 3,cold_war,located_in,baikonur_cosmodrome,soviet_union,link_fail,link_fail,entity not linked
+Grok 3,civil_war,located_in,american_civil_war,united_states,verified,verified,P276 match
+Grok 3,lovecraft,published_in,the_call_of_cthulhu,x1928,verified,verified,1928 ~ [1928]
+Grok 3,kant,influenced_by,immanuel_kant,david_hume,verified,verified,P737 match
+Grok 3,lovecraft,influenced_by,hp_lovecraft,scientific_racism,not_in_wikidata,not_in_wikidata,no claim
+Grok 3,french_revolution,died_in,thomas_jefferson,x1826,verified,not_in_wikidata,no date
+Grok 3,kafka,published_in,the_stranger,x1942,contradicted,contradicted,"claimed 1942, wikidata [1909]"
+Grok 3,kant,influenced_by,immanuel_kant,john_locke,verified,verified,P737 match

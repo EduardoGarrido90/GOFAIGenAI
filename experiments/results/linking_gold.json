@@ -1,0 +1,752 @@
+{
+  "the_trial|written_work": {
+    "gold": "Q36097",
+    "naive": "Q36097",
+    "improved": "Q36097"
+  },
+  "anna_karenina|written_work": {
+    "gold": "Q147787",
+    "naive": "Q80204",
+    "improved": "Q147787"
+  },
+  "frederick_douglass|human": {
+    "gold": "Q215562",
+    "naive": "Q215562",
+    "improved": "Q215562"
+  },
+  "the_sound_and_the_fury|written_work": {
+    "gold": "Q135515",
+    "naive": "Q20992487",
+    "improved": "Q135515"
+  },
+  "because_i_could_not_stop_for_death|written_work": {
+    "gold": "Q4878480",
+    "naive": "Q4878480",
+    "improved": "Q4878480"
+  },
+  "metamorphosis|written_work": {
+    "gold": "Q54942567",
+    "naive": "Q54942567",
+    "improved": "Q54942567"
+  },
+  "michael_collins|human": {
+    "gold": "Q104859",
+    "naive": "Q104859",
+    "improved": "Q104859"
+  },
+  "american_south|place": {
+    "gold": "Q49042",
+    "naive": "Q49042",
+    "improved": "Q49042"
+  },
+  "flush_a_biography|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "john_f_kennedy|human": {
+    "gold": "Q87057326",
+    "naive": "Q9696",
+    "improved": "Q87057326"
+  },
+  "letter_to_his_father|written_work": {
+    "gold": "Q383835",
+    "naive": "Q383835",
+    "improved": "Q383835"
+  },
+  "war_and_peace_novel|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "mississippi|place": {
+    "gold": "Q1494",
+    "naive": "Q1494",
+    "improved": "Q1494"
+  },
+  "ulysses_s_grant|human": {
+    "gold": null,
+    "naive": "Q34836",
+    "improved": "Q34836"
+  },
+  "maya_angelou|human": {
+    "gold": "Q19526",
+    "naive": "Q19526",
+    "improved": "Q19526"
+  },
+  "dagon|creative_work": {
+    "gold": null,
+    "naive": "Q5208631",
+    "improved": "Q5208631"
+  },
+  "demons|written_work": {
+    "gold": "Q98431855",
+    "naive": "Q175331",
+    "improved": "Q329989"
+  },
+  "gather_together_in_my_name|written_work": {
+    "gold": "Q5527353",
+    "naive": "Q5527353",
+    "improved": "Q5527353"
+  },
+  "berlin_germany|place": {
+    "gold": null,
+    "naive": "Q110103504",
+    "improved": "Q110103504"
+  },
+  "hearts_needle|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "yuri_gagarin|human": {
+    "gold": "Q7327",
+    "naive": "Q7327",
+    "improved": "Q7327"
+  },
+  "the_shadow_over_innsmouth|written_work": {
+    "gold": "Q1068054",
+    "naive": "Q1068054",
+    "improved": "Q1068054"
+  },
+  "nyarlathotep|creative_work": {
+    "gold": "Q4328398",
+    "naive": "Q131473437",
+    "improved": "Q4328398"
+  },
+  "russian_empire|place": {
+    "gold": "Q34266",
+    "naive": "Q34266",
+    "improved": "Q34266"
+  },
+  "copernicus|human": {
+    "gold": "Q619",
+    "naive": "Q619",
+    "improved": "Q619"
+  },
+  "the_cherry_orchard|written_work": {
+    "gold": "Q478381",
+    "naive": "Q478381",
+    "improved": "Q478381"
+  },
+  "united_states_national_archives|place": {
+    "gold": "Q518155",
+    "naive": "Q518155",
+    "improved": "Q518155"
+  },
+  "friedrich_engels|human": {
+    "gold": "Q34787",
+    "naive": "Q34787",
+    "improved": "Q34787"
+  },
+  "marie_antoinette|human": {
+    "gold": "Q47365",
+    "naive": "Q20154678",
+    "improved": "Q47365"
+  },
+  "south_carolina|place": {
+    "gold": "Q1456",
+    "naive": "Q1024426",
+    "improved": "Q1456"
+  },
+  "georges_clemenceau|human": {
+    "gold": "Q171730",
+    "naive": "Q171730",
+    "improved": "Q171730"
+  },
+  "florence|place": {
+    "gold": "Q597842",
+    "naive": "Q950780",
+    "improved": "Q2044"
+  },
+  "the_dunwich_horror|written_work": {
+    "gold": "Q2468877",
+    "naive": "Q2468877",
+    "improved": "Q2468877"
+  },
+  "the_castle|written_work": {
+    "gold": "Q682733",
+    "naive": "Q118733477",
+    "improved": "Q682733"
+  },
+  "james_joyce|human": {
+    "gold": "Q6882",
+    "naive": "Q6882",
+    "improved": "Q6882"
+  },
+  "constantine_the_great|human": {
+    "gold": "Q8413",
+    "naive": "Q8413",
+    "improved": "Q8413"
+  },
+  "gene_kranz|human": {
+    "gold": "Q711493",
+    "naive": "Q711493",
+    "improved": "Q711493"
+  },
+  "franz_kafka|human": {
+    "gold": "Q905",
+    "naive": "Q905",
+    "improved": "Q905"
+  },
+  "sergei_korolev|human": {
+    "gold": "Q170842",
+    "naive": "Q170842",
+    "improved": "Q170842"
+  },
+  "it|written_work": {
+    "gold": null,
+    "naive": "Q38",
+    "improved": "Q38"
+  },
+  "the_brothers_karamazov|written_work": {
+    "gold": "Q183157",
+    "naive": "Q183157",
+    "improved": "Q183157"
+  },
+  "i_heard_a_fly_buzz__when_i_died|human": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "constantinople|place": {
+    "gold": "Q16869",
+    "naive": "Q16869",
+    "improved": "Q16869"
+  },
+  "stalingrad_soviet_union|place": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "the_stranger|written_work": {
+    "gold": "Q19985789",
+    "naive": "Q19985789",
+    "improved": "Q163297"
+  },
+  "emily_dickinson|human": {
+    "gold": "Q4441",
+    "naive": "Q4441",
+    "improved": "Q4441"
+  },
+  "jeanpaul_sartre|human": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "leo_tolstoys_short_stories|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "charlotte_bront\u00eb|human": {
+    "gold": "Q127332",
+    "naive": "Q127332",
+    "improved": "Q127332"
+  },
+  "frankenstein_or_the_modern_prometheus|written_work": {
+    "gold": "Q150827",
+    "naive": "Q150827",
+    "improved": "Q150827"
+  },
+  "dublin|place": {
+    "gold": "Q1761",
+    "naive": "Q1761",
+    "improved": "Q1761"
+  },
+  "johannes_gutenberg|human": {
+    "gold": "Q8958",
+    "naive": "Q8958",
+    "improved": "Q8958"
+  },
+  "ulysses|written_work": {
+    "gold": "Q28599525",
+    "naive": "Q4003050",
+    "improved": "Q6511"
+  },
+  "a_room_of_ones_own|written_work": {
+    "gold": null,
+    "naive": "Q116088220",
+    "improved": "Q116088220"
+  },
+  "the_mysteries_of_udolpho|written_work": {
+    "gold": "Q2600909",
+    "naive": "Q2600909",
+    "improved": "Q2600909"
+  },
+  "athens|place": {
+    "gold": "Q203263",
+    "naive": "Q203263",
+    "improved": "Q203263"
+  },
+  "all_gods_children_need_traveling_shoes|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "boston|place": {
+    "gold": "Q100",
+    "naive": "Q100",
+    "improved": "Q100"
+  },
+  "ibn_alwardi|human": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "works_and_days|written_work": {
+    "gold": "Q667285",
+    "naive": "Q667285",
+    "improved": "Q667285"
+  },
+  "the_book_of_sand|written_work": {
+    "gold": "Q20761845",
+    "naive": "Q20761845",
+    "improved": "Q20761845"
+  },
+  "emily_dickinson|written_work": {
+    "gold": "Q128069193",
+    "naive": "Q4441",
+    "improved": "Q128069193"
+  },
+  "emma|written_work": {
+    "gold": null,
+    "naive": "Q541194",
+    "improved": "Q541194"
+  },
+  "albert_camus|human": {
+    "gold": "Q34670",
+    "naive": "Q34670",
+    "improved": "Q34670"
+  },
+  "virginia|place": {
+    "gold": "Q1370",
+    "naive": "Q1370",
+    "improved": "Q1370"
+  },
+  "india|place": {
+    "gold": "Q668",
+    "naive": "Q668",
+    "improved": "Q668"
+  },
+  "the_idiot|written_work": {
+    "gold": "Q210784",
+    "naive": "Q210784",
+    "improved": "Q210784"
+  },
+  "lionel_and_roger_penrose|human": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "the_aeneid|written_work": {
+    "gold": "Q138515883",
+    "naive": "Q87347124",
+    "improved": "Q138515883"
+  },
+  "gabriel_garcia_marquez|human": {
+    "gold": "Q5878",
+    "naive": "Q5878",
+    "improved": "Q5878"
+  },
+  "john_brown|human": {
+    "gold": "Q189366",
+    "naive": "Q189366",
+    "improved": "Q189366"
+  },
+  "an_inhabitant_of_carcosa|written_work": {
+    "gold": "Q4750069",
+    "naive": "Q4750069",
+    "improved": "Q4750069"
+  },
+  "leonardo_da_vinci|human": {
+    "gold": "Q762",
+    "naive": "Q762",
+    "improved": "Q762"
+  },
+  "one_hundred_years_of_solitude|written_work": {
+    "gold": "Q178869",
+    "naive": "Q178869",
+    "improved": "Q178869"
+  },
+  "aracataca|place": {
+    "gold": "Q624492",
+    "naive": "Q624492",
+    "improved": "Q624492"
+  },
+  "the_housekeeper_and_the_professor|written_work": {
+    "gold": "Q1072975",
+    "naive": "Q1072975",
+    "improved": "Q1072975"
+  },
+  "crime_and_punishment|written_work": {
+    "gold": "Q165318",
+    "naive": "Q5185252",
+    "improved": "Q165318"
+  },
+  "ambrose_bierce|human": {
+    "gold": "Q191050",
+    "naive": "Q191050",
+    "improved": "Q191050"
+  },
+  "homer|human": {
+    "gold": "Q6691",
+    "naive": "Q6691",
+    "improved": "Q6691"
+  },
+  "ariel|written_work": {
+    "gold": null,
+    "naive": "Q1793444",
+    "improved": "Q1793444"
+  },
+  "robert_e_lee|human": {
+    "gold": "Q165557",
+    "naive": "Q165557",
+    "improved": "Q165557"
+  },
+  "mrs_dalloway|written_work": {
+    "gold": "Q752584",
+    "naive": "Q752584",
+    "improved": "Q752584"
+  },
+  "voltaire|human": {
+    "gold": "Q9068",
+    "naive": "Q9068",
+    "improved": "Q9068"
+  },
+  "isambard_kingdom_brunel|human": {
+    "gold": "Q207380",
+    "naive": "Q207380",
+    "improved": "Q207380"
+  },
+  "a_wild_sheep_chase|written_work": {
+    "gold": "Q2279794",
+    "naive": "Q2279794",
+    "improved": "Q2279794"
+  },
+  "aeneid|written_work": {
+    "gold": "Q60220",
+    "naive": "Q60220",
+    "improved": "Q60220"
+  },
+  "c1370|place": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "woodrow_wilson|human": {
+    "gold": "Q105758745",
+    "naive": "Q34296",
+    "improved": "Q105758745"
+  },
+  "dream_cycle|creative_work": {
+    "gold": null,
+    "naive": "Q2271327",
+    "improved": "Q2271327"
+  },
+  "holy_land|place": {
+    "gold": "Q23792",
+    "naive": "Q23792",
+    "improved": "Q23792"
+  },
+  "the_metamorphosis|written_work": {
+    "gold": "Q184222",
+    "naive": "Q184222",
+    "improved": "Q184222"
+  },
+  "plato|human": {
+    "gold": "Q859",
+    "naive": "Q859",
+    "improved": "Q859"
+  },
+  "mom__me__mom|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "amerika|written_work": {
+    "gold": "Q48229",
+    "naive": "Q30",
+    "improved": "Q48229"
+  },
+  "arkham|creative_work": {
+    "gold": null,
+    "naive": "Q673540",
+    "improved": "Q673519"
+  },
+  "france|place": {
+    "gold": "Q142",
+    "naive": "Q142",
+    "improved": "Q142"
+  },
+  "the_waves|written_work": {
+    "gold": "Q1217475",
+    "naive": "Q116897535",
+    "improved": "Q1217475"
+  },
+  "odyssey|written_work": {
+    "gold": "Q35160",
+    "naive": "Q66807669",
+    "improved": "Q35160"
+  },
+  "mary_elizabeth_braddon|human": {
+    "gold": "Q437184",
+    "naive": "Q437184",
+    "improved": "Q437184"
+  },
+  "the_kingdom_of_god_is_within_you|written_work": {
+    "gold": "Q143931",
+    "naive": "Q143931",
+    "improved": "Q143931"
+  },
+  "at_the_mountains_of_madness|written_work": {
+    "gold": "Q786586",
+    "naive": "Q124063219",
+    "improved": "Q786586"
+  },
+  "h_p_lovecraft|human": {
+    "gold": null,
+    "naive": "Q9001694",
+    "improved": "Q9001694"
+  },
+  "western_front|place": {
+    "gold": "Q216184",
+    "naive": "Q152989",
+    "improved": "Q216184"
+  },
+  "jane_austen|human": {
+    "gold": "Q36322",
+    "naive": "Q36322",
+    "improved": "Q36322"
+  },
+  "the_colour_out_of_space|written_work": {
+    "gold": "Q86710913",
+    "naive": "Q86710913",
+    "improved": "Q1212384"
+  },
+  "leonardo_bruni|human": {
+    "gold": "Q314488",
+    "naive": "Q314488",
+    "improved": "Q314488"
+  },
+  "huldrych_zwingli|human": {
+    "gold": "Q123034",
+    "naive": "Q123034",
+    "improved": "Q123034"
+  },
+  "thomas_jefferson|human": {
+    "gold": "Q743755",
+    "naive": "Q11812",
+    "improved": "Q743755"
+  },
+  "clark_ashton_smith|human": {
+    "gold": "Q555298",
+    "naive": "Q555298",
+    "improved": "Q555298"
+  },
+  "virgil|human": {
+    "gold": "Q1398",
+    "naive": "Q1398",
+    "improved": "Q1398"
+  },
+  "circle_limit_series|creative_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "mary_shelley|human": {
+    "gold": "Q47152",
+    "naive": "Q47152",
+    "improved": "Q47152"
+  },
+  "abraham_lincoln|human": {
+    "gold": "Q2821841",
+    "naive": "Q91",
+    "improved": "Q2821841"
+  },
+  "the_hours_novel|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "ficciones|written_work": {
+    "gold": "Q2483432",
+    "naive": "Q2483432",
+    "improved": "Q2483432"
+  },
+  "william_tecumseh_sherman|human": {
+    "gold": "Q188936",
+    "naive": "Q188936",
+    "improved": "Q188936"
+  },
+  "christopher_columbus|human": {
+    "gold": "Q7322",
+    "naive": "Q7322",
+    "improved": "Q7322"
+  },
+  "pilgrimage|written_work": {
+    "gold": null,
+    "naive": "Q1644573",
+    "improved": "Q1644573"
+  },
+  "soviet_union|human": {
+    "gold": "Q1425328",
+    "naive": "Q15180",
+    "improved": "Q1425328"
+  },
+  "orlando|written_work": {
+    "gold": null,
+    "naive": "Q49233",
+    "improved": "Q49233"
+  },
+  "congo_free_state|human": {
+    "gold": "Q5160500",
+    "naive": "Q76048",
+    "improved": "Q5160500"
+  },
+  "because_i_could_not_stop_for_death|human": {
+    "gold": null,
+    "naive": "Q4878480",
+    "improved": "Q4878480"
+  },
+  "eastern_roman_empire|place": {
+    "gold": "Q12544",
+    "naive": "Q12544",
+    "improved": "Q12544"
+  },
+  "vita_nuova|written_work": {
+    "gold": "Q18084",
+    "naive": "Q18084",
+    "improved": "Q18084"
+  },
+  "united_states|place": {
+    "gold": "Q30",
+    "naive": "Q30",
+    "improved": "Q30"
+  },
+  "stratforduponavon|place": {
+    "gold": "Q189288",
+    "naive": "Q189288",
+    "improved": "Q189288"
+  },
+  "el_aleph|written_work": {
+    "gold": "Q743304",
+    "naive": "Q5820811",
+    "improved": "Q743304"
+  },
+  "daddy|written_work": {
+    "gold": "Q76138723",
+    "naive": "Q7565",
+    "improved": "Q76138723"
+  },
+  "the_kingdom_of_this_world|written_work": {
+    "gold": "Q139383502",
+    "naive": "Q139383502",
+    "improved": "Q579507"
+  },
+  "valentina_tereshkova|human": {
+    "gold": "Q44371",
+    "naive": "Q44371",
+    "improved": "Q44371"
+  },
+  "jorge_luis_borges|human": {
+    "gold": "Q909",
+    "naive": "Q909",
+    "improved": "Q909"
+  },
+  "gerard_thom|human": {
+    "gold": "Q102173521",
+    "naive": "Q102173521",
+    "improved": "Q2847474"
+  },
+  "john_calvin|human": {
+    "gold": "Q37577",
+    "naive": "Q37577",
+    "improved": "Q37577"
+  },
+  "the_heart_of_a_woman|written_work": {
+    "gold": null,
+    "naive": "Q5692401",
+    "improved": "Q5692401"
+  },
+  "poems_1890|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "poem_479_because_i_could_not_stop_for_death|written_work": {
+    "gold": null,
+    "naive": null,
+    "improved": null
+  },
+  "immanuel_kant|human": {
+    "gold": "Q9312",
+    "naive": "Q9312",
+    "improved": "Q9312"
+  },
+  "hern\u00e1n_cort\u00e9s|human": {
+    "gold": "Q7326",
+    "naive": "Q7326",
+    "improved": "Q7326"
+  },
+  "virginia_woolf|human": {
+    "gold": "Q40909",
+    "naive": "Q40909",
+    "improved": "Q40909"
+  },
+  "villette|written_work": {
+    "gold": null,
+    "naive": "Q83467",
+    "improved": "Q83467"
+  },
+  "poor_folk|written_work": {
+    "gold": "Q117293",
+    "naive": "Q117293",
+    "improved": "Q117293"
+  },
+  "divine_comedy|written_work": {
+    "gold": "Q136259901",
+    "naive": "Q136259901",
+    "improved": "Q136259901"
+  },
+  "hesiod|human": {
+    "gold": "Q44233",
+    "naive": "Q44233",
+    "improved": "Q44233"
+  },
+  "das_kapital|written_work": {
+    "gold": "Q58784",
+    "naive": "Q58784",
+    "improved": "Q58784"
+  },
+  "hp_lovecraft|human": {
+    "gold": null,
+    "naive": "Q371642",
+    "improved": "Q371642"
+  },
+  "the_call_of_cthulhu|written_work": {
+    "gold": "Q1141815",
+    "naive": "Q1141815",
+    "improved": "Q1141815"
+  },
+  "georges_danton|human": {
+    "gold": "Q184623",
+    "naive": "Q184623",
+    "improved": "Q184623"
+  },
+  "killing_commendatore|written_work": {
+    "gold": "Q28836534",
+    "naive": "Q28836534",
+    "improved": "Q28836534"
+  },
+  "the_raven|written_work": {
+    "gold": "Q22726",
+    "naive": "Q22726",
+    "improved": "Q22726"
+  },
+  "call_of_cthulhu|written_work": {
+    "gold": "Q1027121",
+    "naive": "Q1027121",
+    "improved": "Q1027121"
+  }
+}

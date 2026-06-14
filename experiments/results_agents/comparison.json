@@ -1,0 +1,47 @@
+[
+  {
+    "model": "haiku",
+    "topics": 9,
+    "total_facts": 369,
+    "verifiable": 142,
+    "validated": 70,
+    "verified": 34,
+    "contradicted": 2,
+    "checkable": 36,
+    "accuracy": 0.9444,
+    "ci_low": 0.8186,
+    "ci_high": 0.9846,
+    "link_fail": 5,
+    "coverage": 0.5143
+  },
+  {
+    "model": "sonnet",
+    "topics": 9,
+    "total_facts": 415,
+    "verifiable": 179,
+    "validated": 70,
+    "verified": 33,
+    "contradicted": 3,
+    "checkable": 36,
+    "accuracy": 0.9167,
+    "ci_low": 0.7817,
+    "ci_high": 0.9713,
+    "link_fail": 11,
+    "coverage": 0.5143
+  },
+  {
+    "model": "opus",
+    "topics": 9,
+    "total_facts": 498,
+    "verifiable": 211,
+    "validated": 70,
+    "verified": 48,
+    "contradicted": 0,
+    "checkable": 48,
+    "accuracy": 1.0,
+    "ci_low": 0.9259,
+    "ci_high": 1.0,
+    "link_fail": 0,
+    "coverage": 0.6857
+  }
+]

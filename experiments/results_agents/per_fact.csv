@@ -1,0 +1,211 @@
+model,topic,predicate,arg1,arg2,status,detail
+haiku,the_renaissance,died_in,michelangelo,x1564,verified,1564 ~ [1564]
+haiku,immanuel_kant,written_by,prolegomena,immanuel_kant,not_in_wikidata,relation absent
+haiku,hp_lovecraft,published_in,at_the_mountains_of_madness,x1936,verified,1936 ~ [1936]
+haiku,plato,written_by,the_republic,plato,verified,P50 match
+haiku,hp_lovecraft,died_in,h_p_lovecraft,x1937,not_in_wikidata,no date
+haiku,friedrich_nietzsche,died_in,friedrich_nietzsche,x1900,verified,1900 ~ [1900]
+haiku,hp_lovecraft,written_by,the_call_of_cthulhu,h_p_lovecraft,not_in_wikidata,relation absent
+haiku,friedrich_nietzsche,written_by,the_birth_of_tragedy,friedrich_nietzsche,verified,P50 match
+haiku,virginia_woolf,born_in,leonard_woolf,x1880,verified,1880 ~ [1880]
+haiku,hp_lovecraft,born_in,h_p_lovecraft,x1890,not_in_wikidata,no date
+haiku,franz_kafka,published_in,america,x1927,not_in_wikidata,no publication date
+haiku,the_french_revolution,located_in,the_french_revolution,france,not_in_wikidata,no claim
+haiku,friedrich_nietzsche,written_by,the_anti_christ,friedrich_nietzsche,not_in_wikidata,no claim
+haiku,virginia_woolf,published_in,mrs_dalloway,x1925,verified,1925 ~ [1925]
+haiku,the_french_revolution,influenced_by,democracy,the_french_revolution,not_in_wikidata,no claim
+haiku,the_renaissance,born_in,leonardo_da_vinci,x1452,verified,"1452 ~ [1452, 1452]"
+haiku,hp_lovecraft,influenced_by,h_p_lovecraft,edgar_allan_poe,not_in_wikidata,no claim
+haiku,virginia_woolf,published_in,between_the_acts,x1941,verified,1941 ~ [1941]
+haiku,friedrich_nietzsche,written_by,the_genealogy_of_morals,friedrich_nietzsche,not_in_wikidata,no claim
+haiku,virginia_woolf,died_in,virginia_woolf,x1941,verified,1941 ~ [1941]
+haiku,immanuel_kant,written_by,critique_of_pure_reason,immanuel_kant,verified,P50 match
+haiku,immanuel_kant,influenced_by,fichte,immanuel_kant,not_in_wikidata,no claim
+haiku,plato,written_by,the_timaeus,plato,link_fail,entity not linked
+haiku,hp_lovecraft,published_in,the_call_of_cthulhu,x1928,verified,1928 ~ [1928]
+haiku,virginia_woolf,written_by,between_the_acts,virginia_woolf,verified,P50 match
+haiku,hp_lovecraft,born_in,h_p_lovecraft,providence_rhode_island,link_fail,place not linked
+haiku,hp_lovecraft,written_by,the_case_of_charles_dexter_ward,h_p_lovecraft,not_in_wikidata,relation absent
+haiku,franz_kafka,published_in,the_castle,x1926,verified,1926 ~ [1926]
+haiku,franz_kafka,written_by,the_trial,franz_kafka,verified,P50 match
+haiku,virginia_woolf,published_in,the_waves,x1931,verified,1931 ~ [1931]
+haiku,immanuel_kant,published_in,critique_of_pure_reason,x1781,verified,"1781 ~ [1781, 1787]"
+haiku,friedrich_nietzsche,written_by,ecce_homo,friedrich_nietzsche,not_in_wikidata,relation absent
+haiku,the_renaissance,born_in,michelangelo,x1475,verified,1475 ~ [1475]
+haiku,hp_lovecraft,published_in,the_dunwich_horror,x1929,verified,1929 ~ [1929]
+haiku,plato,died_in,plato,x348_bc,link_fail,place not linked
+haiku,immanuel_kant,published_in,critique_of_practical_reason,x1788,verified,1788 ~ [1788]
+haiku,virginia_woolf,born_in,virginia_woolf,x1882,verified,1882 ~ [1882]
+haiku,plato,created_by,the_cave_allegory,plato,link_fail,entity not linked
+haiku,hp_lovecraft,written_by,the_shadow_of_innsmouth,h_p_lovecraft,link_fail,entity not linked
+haiku,friedrich_nietzsche,written_by,beyond_good_and_evil,friedrich_nietzsche,verified,P50 match
+haiku,franz_kafka,born_in,franz_kafka,x1883,verified,1883 ~ [1883]
+haiku,franz_kafka,died_in,franz_kafka,x1924,verified,"1924 ~ [1924, 1924]"
+haiku,immanuel_kant,influenced_by,immanuel_kant,rousseau,not_in_wikidata,relation absent
+haiku,hp_lovecraft,created_by,the_necronomicon,h_p_lovecraft,not_in_wikidata,no claim
+haiku,hp_lovecraft,published_in,the_case_of_charles_dexter_ward,x1927,contradicted,"claimed 1927, wikidata [1971]"
+haiku,friedrich_nietzsche,published_in,the_genealogy_of_morals,x1887,not_in_wikidata,no publication date
+haiku,immanuel_kant,written_by,critique_of_judgment,immanuel_kant,verified,P50 match
+haiku,friedrich_nietzsche,published_in,ecce_homo,x1908,not_in_wikidata,no publication date
+haiku,virginia_woolf,written_by,the_years,virginia_woolf,not_in_wikidata,relation absent
+haiku,plato,written_by,the_phaedrus,plato,verified,P50 match
+haiku,friedrich_nietzsche,born_in,friedrich_nietzsche,x1844,verified,1844 ~ [1844]
+haiku,franz_kafka,written_by,before_the_law,franz_kafka,verified,P50 match
+haiku,virginia_woolf,published_in,orlando,x1928,not_in_wikidata,no publication date
+haiku,virginia_woolf,published_in,jacob_s_room,x1922,verified,1922 ~ [1922]
+haiku,plato,influenced_by,western_philosophy,plato,not_in_wikidata,no claim
+haiku,immanuel_kant,influenced_by,schopenhauer,immanuel_kant,not_in_wikidata,no claim
+haiku,immanuel_kant,influenced_by,german_idealism,immanuel_kant,not_in_wikidata,no claim
+haiku,virginia_woolf,influenced_by,modernist_literature,virginia_woolf,not_in_wikidata,no claim
+haiku,the_renaissance,died_in,leonardo_da_vinci,x1519,verified,"1519 ~ [1519, 1519]"
+haiku,franz_kafka,influenced_by,absurdism,franz_kafka,not_in_wikidata,no claim
+haiku,virginia_woolf,born_in,virginia_woolf,london,verified,place match
+haiku,immanuel_kant,influenced_by,immanuel_kant,leibniz,not_in_wikidata,relation absent
+haiku,franz_kafka,written_by,a_hunger_artist,franz_kafka,verified,P50 match
+haiku,hp_lovecraft,influenced_by,august_derleth,h_p_lovecraft,not_in_wikidata,no claim
+haiku,friedrich_nietzsche,published_in,the_anti_christ,x1895,contradicted,"claimed 1895, wikidata [1930]"
+haiku,the_renaissance,died_in,dante_alighieri,x1321,verified,"1321 ~ [1321, 1321, 1321, 1321]"
+haiku,virginia_woolf,published_in,to_the_lighthouse,x1927,verified,1927 ~ [1927]
+haiku,virginia_woolf,written_by,a_room_of_ones_own,virginia_woolf,not_in_wikidata,no claim
+haiku,immanuel_kant,influenced_by,hegel,immanuel_kant,not_in_wikidata,no claim
+haiku,hp_lovecraft,written_by,the_colour_out_of_space,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,immanuel_kant,published_in,metaphysics_of_morals,x1797,link_fail,work not linked
+sonnet,virginia_woolf,published_in,mrs_dalloway,x1925,verified,1925 ~ [1925]
+sonnet,immanuel_kant,published_in,prolegomena_to_any_future_metaphysics,x1783,verified,1783 ~ [1783]
+sonnet,immanuel_kant,written_by,perpetual_peace,immanuel_kant,verified,P50 match
+sonnet,plato,born_in,plato,athens,not_in_wikidata,place granularity/mismatch
+sonnet,friedrich_nietzsche,born_in,friedrich_nietzsche,x1844,verified,1844 ~ [1844]
+sonnet,the_renaissance,published_in,de_revolutionibus,x1543,verified,1543 ~ [1543]
+sonnet,immanuel_kant,influenced_by,immanuel_kant,jean_jacques_rousseau,verified,P737 match
+sonnet,friedrich_nietzsche,written_by,on_the_genealogy_of_morality,friedrich_nietzsche,verified,P50 match
+sonnet,the_renaissance,located_in,medici_family,florence,not_in_wikidata,relation absent
+sonnet,franz_kafka,published_in,america_the_man_who_disappeared,x1927,link_fail,work not linked
+sonnet,virginia_woolf,influenced_by,virginia_woolf,henry_james,not_in_wikidata,relation absent
+sonnet,friedrich_nietzsche,born_in,friedrich_nietzsche,rocken_prussia,link_fail,place not linked
+sonnet,the_renaissance,born_in,leonardo_da_vinci,x1452,verified,"1452 ~ [1452, 1452]"
+sonnet,virginia_woolf,influenced_by,virginia_woolf,james_joyce,not_in_wikidata,relation absent
+sonnet,plato,influenced_by,plotinus,plato,not_in_wikidata,relation absent
+sonnet,the_renaissance,published_in,divine_comedy,x1320,contradicted,"claimed 1320, wikidata [2025]"
+sonnet,the_french_revolution,published_in,constitution_of_1791,x1791,not_in_wikidata,no publication date
+sonnet,hp_lovecraft,written_by,the_whisperer_in_darkness,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,the_french_revolution,published_in,declaration_of_rights_of_man,x1789,link_fail,work not linked
+sonnet,franz_kafka,published_in,in_the_penal_colony,x1919,verified,1919 ~ [1919]
+sonnet,plato,influenced_by,plato,socrates,verified,P737 match
+sonnet,franz_kafka,written_by,the_judgment,franz_kafka,verified,P50 match
+sonnet,immanuel_kant,written_by,metaphysics_of_morals,immanuel_kant,link_fail,entity not linked
+sonnet,plato,influenced_by,plato,pythagoras,not_in_wikidata,relation absent
+sonnet,the_renaissance,born_in,michelangelo,x1475,verified,1475 ~ [1475]
+sonnet,friedrich_nietzsche,written_by,thus_spoke_zarathustra,friedrich_nietzsche,verified,P50 match
+sonnet,franz_kafka,influenced_by,samuel_beckett,franz_kafka,not_in_wikidata,no claim
+sonnet,virginia_woolf,died_in,virginia_woolf,x1941,verified,1941 ~ [1941]
+sonnet,immanuel_kant,published_in,critique_of_practical_reason,x1788,verified,1788 ~ [1788]
+sonnet,the_renaissance,located_in,renaissance,italy,not_in_wikidata,relation absent
+sonnet,immanuel_kant,published_in,groundwork_of_the_metaphysics_of_morals,x1785,contradicted,"claimed 1785, wikidata [1997]"
+sonnet,hp_lovecraft,born_in,h_p_lovecraft,x1890,not_in_wikidata,no date
+sonnet,the_renaissance,created_by,school_of_athens,raphael,verified,P170 match
+sonnet,immanuel_kant,influenced_by,georg_hegel,immanuel_kant,not_in_wikidata,no claim
+sonnet,the_renaissance,born_in,petrarch,x1304,verified,"1304 ~ [1304, 1304]"
+sonnet,plato,died_in,plato,x348_bc,link_fail,place not linked
+sonnet,friedrich_nietzsche,published_in,the_gay_science,x1882,contradicted,"claimed 1882, wikidata [1974]"
+sonnet,hp_lovecraft,created_by,arkham_massachusetts,h_p_lovecraft,link_fail,entity not linked
+sonnet,hp_lovecraft,written_by,the_shadow_over_innsmouth,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,plato,influenced_by,augustine_of_hippo,plato,verified,P737 match
+sonnet,the_french_revolution,influenced_by,declaration_of_rights_of_man,american_declaration_of_independence,link_fail,entity not linked
+sonnet,hp_lovecraft,influenced_by,h_p_lovecraft,arthur_machen,not_in_wikidata,no claim
+sonnet,hp_lovecraft,written_by,at_the_mountains_of_madness,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,hp_lovecraft,written_by,the_dunwich_horror,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,virginia_woolf,written_by,a_room_of_ones_own,virginia_woolf,not_in_wikidata,no claim
+sonnet,hp_lovecraft,born_in,h_p_lovecraft,providence_rhode_island,link_fail,place not linked
+sonnet,virginia_woolf,born_in,virginia_woolf,x1882,verified,1882 ~ [1882]
+sonnet,plato,founded_by,academy,plato,not_in_wikidata,no claim
+sonnet,the_french_revolution,created_by,declaration_of_rights_of_man,national_assembly,link_fail,entity not linked
+sonnet,hp_lovecraft,published_in,the_call_of_cthulhu,x1928,verified,1928 ~ [1928]
+sonnet,the_renaissance,written_by,de_revolutionibus,nicolaus_copernicus,verified,P50 match
+sonnet,virginia_woolf,founded_by,hogarth_press,virginia_woolf,verified,P112 match
+sonnet,friedrich_nietzsche,published_in,twilight_of_the_idols,x1889,verified,1889 ~ [1889]
+sonnet,plato,created_by,allegory_of_the_cave,plato,not_in_wikidata,no claim
+sonnet,virginia_woolf,published_in,the_voyage_out,x1915,verified,1915 ~ [1915]
+sonnet,franz_kafka,written_by,america_the_man_who_disappeared,franz_kafka,link_fail,entity not linked
+sonnet,friedrich_nietzsche,written_by,twilight_of_the_idols,friedrich_nietzsche,verified,P50 match
+sonnet,friedrich_nietzsche,published_in,beyond_good_and_evil,x1886,verified,"1886 ~ [1886, 1886]"
+sonnet,hp_lovecraft,published_in,the_rats_in_the_walls,x1924,verified,1924 ~ [1924]
+sonnet,virginia_woolf,located_in,bloomsbury_group,london,not_in_wikidata,no claim
+sonnet,friedrich_nietzsche,published_in,on_the_genealogy_of_morality,x1887,verified,"1887 ~ [1887, 1887]"
+sonnet,immanuel_kant,died_in,immanuel_kant,x1804,verified,1804 ~ [1804]
+sonnet,franz_kafka,written_by,letter_to_his_father,franz_kafka,verified,P50 match
+sonnet,franz_kafka,influenced_by,albert_camus,franz_kafka,verified,P737 match
+sonnet,franz_kafka,influenced_by,jorge_luis_borges,franz_kafka,not_in_wikidata,relation absent
+sonnet,virginia_woolf,written_by,the_voyage_out,virginia_woolf,verified,P50 match
+sonnet,hp_lovecraft,written_by,the_colour_out_of_space,h_p_lovecraft,not_in_wikidata,relation absent
+sonnet,virginia_woolf,written_by,orlando,virginia_woolf,not_in_wikidata,no claim
+sonnet,friedrich_nietzsche,written_by,the_birth_of_tragedy,friedrich_nietzsche,verified,P50 match
+opus,plato,located_in,the_academy,athens,not_in_wikidata,relation absent
+opus,hp_lovecraft,written_by,the_case_of_charles_dexter_ward,h_p_lovecraft,not_in_wikidata,relation absent
+opus,virginia_woolf,born_in,virginia_woolf,x1882,verified,1882 ~ [1882]
+opus,virginia_woolf,written_by,three_guineas,virginia_woolf,verified,P50 match
+opus,the_renaissance,born_in,niccolo_machiavelli,x1469,verified,1469 ~ [1469]
+opus,immanuel_kant,influenced_by,immanuel_kant,gottfried_leibniz,not_in_wikidata,relation absent
+opus,the_renaissance,created_by,the_last_supper,leonardo_da_vinci,verified,P170 match
+opus,franz_kafka,influenced_by,franz_kafka,gustave_flaubert,verified,P737 match
+opus,friedrich_nietzsche,born_in,friedrich_nietzsche,x1844,verified,1844 ~ [1844]
+opus,immanuel_kant,written_by,the_metaphysics_of_morals,immanuel_kant,verified,P50 match
+opus,virginia_woolf,published_in,mrs_dalloway,x1925,verified,1925 ~ [1925]
+opus,hp_lovecraft,published_in,the_rats_in_the_walls,x1924,verified,1924 ~ [1924]
+opus,virginia_woolf,published_in,night_and_day,x1919,not_in_wikidata,no publication date
+opus,franz_kafka,written_by,a_hunger_artist,franz_kafka,verified,P50 match
+opus,virginia_woolf,written_by,the_waves,virginia_woolf,verified,P50 match
+opus,friedrich_nietzsche,published_in,thus_spoke_zarathustra,x1883,verified,1883 ~ [1885]
+opus,virginia_woolf,written_by,between_the_acts,virginia_woolf,verified,P50 match
+opus,plato,influenced_by,aristotle,plato,not_in_wikidata,no claim
+opus,franz_kafka,influenced_by,franz_kafka,soren_kierkegaard,not_in_wikidata,relation absent
+opus,the_renaissance,written_by,the_prince,niccolo_machiavelli,verified,P50 match
+opus,franz_kafka,written_by,the_judgment,franz_kafka,verified,P50 match
+opus,plato,born_in,plato,x428,verified,"428 ~ [427, 429, 428]"
+opus,friedrich_nietzsche,written_by,thus_spoke_zarathustra,friedrich_nietzsche,verified,P50 match
+opus,hp_lovecraft,published_in,the_dunwich_horror,x1929,verified,1929 ~ [1929]
+opus,friedrich_nietzsche,written_by,the_will_to_power,friedrich_nietzsche,verified,P50 match
+opus,the_renaissance,born_in,sandro_botticelli,x1445,verified,"1445 ~ [1445, 1446]"
+opus,plato,written_by,phaedrus,plato,verified,P50 match
+opus,friedrich_nietzsche,written_by,ecce_homo,friedrich_nietzsche,not_in_wikidata,relation absent
+opus,plato,written_by,crito,plato,verified,P50 match
+opus,the_french_revolution,influenced_by,the_french_revolution,the_enlightenment,not_in_wikidata,no claim
+opus,immanuel_kant,written_by,what_is_enlightenment,immanuel_kant,not_in_wikidata,relation absent
+opus,hp_lovecraft,created_by,cthulhu,h_p_lovecraft,not_in_wikidata,no claim
+opus,plato,written_by,the_laws,plato,not_in_wikidata,no claim
+opus,plato,influenced_by,plato,pythagoras,not_in_wikidata,relation absent
+opus,franz_kafka,written_by,in_the_penal_colony,franz_kafka,verified,P50 match
+opus,hp_lovecraft,published_in,the_shadow_over_innsmouth,x1936,verified,1936 ~ [1936]
+opus,the_renaissance,born_in,michelangelo,x1475,verified,1475 ~ [1475]
+opus,the_renaissance,published_in,in_praise_of_folly,x1511,verified,1511 ~ [1511]
+opus,franz_kafka,written_by,the_castle,franz_kafka,verified,P50 match
+opus,the_renaissance,born_in,raphael,x1483,verified,"1483 ~ [1483, 1483, 1483]"
+opus,franz_kafka,published_in,amerika,x1927,verified,1927 ~ [1927]
+opus,plato,influenced_by,plato,socrates,verified,P737 match
+opus,virginia_woolf,published_in,three_guineas,x1938,verified,1938 ~ [1938]
+opus,hp_lovecraft,written_by,the_whisperer_in_darkness,h_p_lovecraft,not_in_wikidata,relation absent
+opus,world_war_i,written_by,the_fourteen_points,woodrow_wilson,not_in_wikidata,no claim
+opus,the_renaissance,located_in,the_medici_family,florence,not_in_wikidata,relation absent
+opus,immanuel_kant,published_in,what_is_enlightenment,x1784,not_in_wikidata,no publication date
+opus,virginia_woolf,written_by,the_voyage_out,virginia_woolf,verified,P50 match
+opus,friedrich_nietzsche,died_in,friedrich_nietzsche,x1900,verified,1900 ~ [1900]
+opus,immanuel_kant,influenced_by,german_idealism,immanuel_kant,not_in_wikidata,no claim
+opus,plato,written_by,the_apology,plato,verified,P50 match
+opus,plato,written_by,gorgias,plato,verified,P50 match
+opus,the_french_revolution,located_in,the_storming_of_the_bastille,paris,not_in_wikidata,relation absent
+opus,plato,influenced_by,neoplatonism,plato,not_in_wikidata,no claim
+opus,franz_kafka,published_in,the_castle,x1926,verified,1926 ~ [1926]
+opus,hp_lovecraft,influenced_by,h_p_lovecraft,arthur_machen,not_in_wikidata,no claim
+opus,immanuel_kant,published_in,critique_of_pure_reason,x1781,verified,"1781 ~ [1781, 1787]"
+opus,immanuel_kant,born_in,immanuel_kant,x1724,verified,1724 ~ [1724]
+opus,virginia_woolf,written_by,a_room_of_ones_own,virginia_woolf,not_in_wikidata,no claim
+opus,world_war_i,died_in,archduke_franz_ferdinand,x1914,verified,1914 ~ [1914]
+opus,franz_kafka,published_in,a_hunger_artist,x1922,verified,1922 ~ [1922]
+opus,plato,written_by,theaetetus,plato,verified,P50 match
+opus,friedrich_nietzsche,written_by,beyond_good_and_evil,friedrich_nietzsche,verified,P50 match
+opus,hp_lovecraft,published_in,the_whisperer_in_darkness,x1931,verified,1931 ~ [1931]
+opus,friedrich_nietzsche,influenced_by,martin_heidegger,friedrich_nietzsche,verified,P737 match
+opus,friedrich_nietzsche,influenced_by,friedrich_nietzsche,ralph_waldo_emerson,verified,P737 match
+opus,friedrich_nietzsche,written_by,on_the_genealogy_of_morality,friedrich_nietzsche,verified,P50 match
+opus,the_renaissance,born_in,erasmus,x1466,verified,"1466 ~ [1466, 1466, 1469]"
+opus,immanuel_kant,influenced_by,johann_gottlieb_fichte,immanuel_kant,verified,P737 match
+opus,plato,founded_by,the_academy,plato,not_in_wikidata,relation absent

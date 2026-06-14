@@ -1,0 +1,69 @@
+
+================ EXPERT-SYSTEM REASONING TRANSCRIPT ================
+Knowledge base: /home/eduardo/projects/LLM_PROLOG/v4_extended_clauses/plato_knowledge_network.pl
+
+Q0. Base size (explicit facts)
+      concepts = 199, related_to edges = 269
+
+Q1. ?- developed_by(Idea, plato).  [direct]
+      27 ideas attributed to Plato:
+      - academy
+      - allegory_of_the_cave
+      - anamnesis
+      - demiurge
+      - dialectic
+      - divided_line
+      - epistemology
+      - ethics
+      - ideal_state
+      - immortality_of_the_soul
+      - justice
+      - justice_as_each_performing_ones_function
+      - justice_as_harmony_in_the_soul
+      - knowledge_vs_opinion
+      - love_theory
+      - metaphysics
+      - philosopher_kings
+      - philosopherking
+      - platonic_dialogue
+      - platonic_idealism
+      - platonic_love
+      - political_philosophy
+      - recollection_theory
+      - the_cave_allegory
+      - the_theory_of_forms
+      - theory_of_forms
+      - tripartite_soul
+
+Q2. ?- influenced_chain(aristotle, Ancestor).  [transitive, derived]
+      Aristotle is (transitively) influenced by:
+      - heraclitus
+      - parmenides
+      - plato
+      - pythagoras
+      - pythagoreanism
+      - socrates
+      => Derived NEW fact: aristotle <- plato <- socrates (2-hop chain absent from the explicit base).
+
+Q3. ?- contested(Idea, Developer, Critic).  [join of developed_by/criticized_by]
+      - c(socratic_method,socrates,aristophanes)
+      - c(the_theory_of_forms,plato,aristotle)
+      - c(theory_of_forms,plato,aristotle)
+
+Q4. ?- uncontested(Idea).  [negation as failure]
+      25 Platonic ideas with no recorded criticism (first 8 shown):
+      - academy
+      - allegory_of_the_cave
+      - anamnesis
+      - demiurge
+      - dialectic
+      - divided_line
+      - epistemology
+      - ethics
+
+Q5. ?- aggregate_all(count, main_work(W, plato), N).  [aggregation]
+      Plato has 12 catalogued main works.
+
+=================================================================
+All queries are deterministic and re-derivable; every answer is
+backed by an explicit clause or a finite resolution proof.
