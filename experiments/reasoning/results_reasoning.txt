@@ -1,6 +1,6 @@
 
 ================ EXPERT-SYSTEM REASONING TRANSCRIPT ================
-Knowledge base: /home/eduardo/projects/LLM_PROLOG/v4_extended_clauses/plato_knowledge_network.pl
+Knowledge base: /home/eduardo/projects/LLM_PROLOG/revision/GOFAIGenAI/experiments/reasoning/plato_knowledge_network.pl
 
 Q0. Base size (explicit facts)
       concepts = 199, related_to edges = 269

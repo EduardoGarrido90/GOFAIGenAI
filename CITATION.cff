@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or the generated knowledge bases, please cite the paper below."
+title: "GOFAIGenAI: GOFAI meets Generative AI — Development of Expert Systems by means of Large Language Models"
+authors:
+  - family-names: "Garrido-Merchán"
+    given-names: "Eduardo C."
+    email: "ecgarrido@comillas.edu"
+  - family-names: "Puente"
+    given-names: "Cristina"
+repository-code: "https://github.com/EduardoGarrido90/GOFAIGenAI"
+license: MIT
+preferred-citation:
+  type: article
+  title: "GOFAI meets Generative AI: Development of Expert Systems by means of Large Language Models"
+  authors:
+    - family-names: "Garrido-Merchán"
+      given-names: "Eduardo C."
+    - family-names: "Puente"
+      given-names: "Cristina"
+  year: 2025
+  doi: "10.48550/arXiv.2507.13550"
+  url: "https://arxiv.org/abs/2507.13550"

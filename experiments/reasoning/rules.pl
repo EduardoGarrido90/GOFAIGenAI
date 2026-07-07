@@ -15,7 +15,14 @@
 
 :- set_prolog_flag(verbose, silent).
 
-kb('/home/eduardo/projects/LLM_PROLOG/v4_extended_clauses/plato_knowledge_network.pl').
+% The knowledge base ships alongside this file; resolve it relative to the
+% directory rules.pl is loaded from so the demo runs from any clone location.
+:- dynamic kb_dir/1.
+:- prolog_load_context(directory, Dir),
+   retractall(kb_dir(_)), assertz(kb_dir(Dir)).
+kb(Path) :-
+    kb_dir(Dir),
+    directory_file_path(Dir, 'plato_knowledge_network.pl', Path).
 
 % --- Derived rule 1: transitive intellectual influence (cycle-safe) ----------
 % influenced_by(X,Y) reads "X was influenced by Y". The transitive closure
